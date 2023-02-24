@@ -5,6 +5,9 @@ def main():
 def test():
     print(123)
 
+def yyutru():
+    pass
+
 
 if __name__ == '__main__':
     main()
